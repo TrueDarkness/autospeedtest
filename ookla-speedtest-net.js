@@ -1,6 +1,10 @@
 // ==UserScript==
-// @name         AutoSpeedTest: Ookla's Speedtest.net x
+// @name         AutoSpeedTest: Ookla's Speedtest.net
+// @namespace    https://github.com/TrueDarkness/autospeedtest
+// @version      0.1
+// @description  Repeat speedtests automatically on Speedtest.net
 // @match        https://www.speedtest.net/?autotest=true
+// @icon         https://b.cdnst.net/images/favicons/favicon.svg
 // @updateURL    https://raw.githubusercontent.com/TrueDarkness/autospeedtest/main/ookla-speedtest-net.js
 // @downloadURL  https://raw.githubusercontent.com/TrueDarkness/autospeedtest/main/ookla-speedtest-net.js
 // @grant        none
