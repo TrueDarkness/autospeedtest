@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         Speedtest autotest
 // @match        https://www.speedtest.net/?autotest=true
+// @updateURL    https://raw.githubusercontent.com/TrueDarkness/autospeedtest/main/speedtestnet.js
+// @downloadURL  https://raw.githubusercontent.com/TrueDarkness/autospeedtest/main/speedtestnet.js
 // @grant        none
 // ==/UserScript==
 
