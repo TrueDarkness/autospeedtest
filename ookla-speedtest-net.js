@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AutoSpeedTest: Ookla's Speedtest.net
+// @name         AutoSpeedTest: Ookla's Speedtest.net x
 // @match        https://www.speedtest.net/?autotest=true
 // @updateURL    https://raw.githubusercontent.com/TrueDarkness/autospeedtest/main/ookla-speedtest-net.js
 // @downloadURL  https://raw.githubusercontent.com/TrueDarkness/autospeedtest/main/ookla-speedtest-net.js
