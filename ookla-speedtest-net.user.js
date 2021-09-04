@@ -5,8 +5,8 @@
 // @description  Repeat speedtests automatically on Speedtest.net
 // @match        https://www.speedtest.net/?autotest=true
 // @icon         https://b.cdnst.net/images/favicons/favicon.svg
-// @updateURL    https://raw.githubusercontent.com/TrueDarkness/autospeedtest/main/ookla-speedtest-net.js
-// @downloadURL  https://raw.githubusercontent.com/TrueDarkness/autospeedtest/main/ookla-speedtest-net.js
+// @updateURL    https://raw.githubusercontent.com/TrueDarkness/autospeedtest/main/ookla-speedtest-net.user.js
+// @downloadURL  https://raw.githubusercontent.com/TrueDarkness/autospeedtest/main/ookla-speedtest-net.user.js
 // @grant        none
 // ==/UserScript==
 
